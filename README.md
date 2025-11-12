@@ -21,7 +21,7 @@ Projekt powinien zawierać trzy klasy/interfejsy:
 ## 🧱 Struktura projektu (w IntelliJ IDEA)
 
 
-ShoppingListProject/
+```ShoppingListProject/
 │
 ├── src/
 │ └── main/
@@ -35,7 +35,7 @@ ShoppingListProject/
 │       └── ItemManagerImplTest.java <-- testy JUnit 5
 │
 └── README.md
-
+```
 
 ---
 
