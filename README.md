@@ -142,3 +142,4 @@ Mydło (3 szt.) - chemia [NIEKUPIONE]
 - [ ] Wszystkie testy w JUnit 5 przechodzą pozytywnie
 - [ ] Program kompiluje się i działa poprawnie w IntelliJ IDEA
 - [x] README zostało uzupełnione (możesz odhaczyć wykonane sekcje zmieniając puste pole na "x")
+
