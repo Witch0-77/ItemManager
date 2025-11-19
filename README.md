@@ -14,7 +14,7 @@ Projekt powinien zawierać trzy klasy/interfejsy:
 |------|------|------|
 | `ItemManager.java` | interfejs | Zawiera definicje metod do zarządzania produktami |
 | `Product.java` | klasa | Reprezentuje pojedynczy produkt |
-| `ShoppingList.java` | klasa | Implementuje interfejs i logikę aplikacji |
+| `ItemManagerImpl.java` | klasa | Implementuje interfejs i logikę aplikacji |
 
 ---
 
