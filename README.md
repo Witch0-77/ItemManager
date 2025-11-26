@@ -65,7 +65,7 @@ Projekt powinien zawierać trzy klasy/interfejsy:
 
 #### Metody:
 - [ ] `void addItem(String name, int quantity, String category)`
-- [ ] `boolean removeItem(String name)`
+- [ ] `void removeItem(String name)`
 - [ ] `Product findItem(String name)`
 - [ ] `List<Product> getAllItems()`
 
