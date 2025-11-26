@@ -54,8 +54,6 @@ Projekt powinien zawierać trzy klasy/interfejsy:
 - [ ] Konstruktor przyjmujący `name`, `quantity`, `category`  
   → ustaw domyślnie `purchased = false`
 - [ ] Gettery i settery do wszystkich pól
-- [ ] `void markAsPurchased()`  
-  → oznacza produkt jako kupiony (`purchased = true`)
 - [ ] `void showProductInfo()`  
   → wyświetla dane produktu w formacie:  
   `"Mleko (2 szt.) - spożywcze [KUPIONE]"` lub `[NIEKUPIONE]`
@@ -66,7 +64,7 @@ Projekt powinien zawierać trzy klasy/interfejsy:
 > Definiuje podstawowe operacje na kolekcji produktów.
 
 #### Metody:
-- [ ] `void addItem(Product product)`
+- [ ] `void addItem(String name, int quantity, String category)`
 - [ ] `boolean removeItem(String name)`
 - [ ] `Product findItem(String name)`
 - [ ] `List<Product> getAllItems()`
